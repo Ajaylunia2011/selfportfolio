@@ -1,7 +1,7 @@
 {
-  "name": "sagar-warfade-portfolio",
-  "version": "0.0.2",
-  "homepage": "https://SagarWarfade18.github.io/portfolio",
+  "name": "Ajay-Lunia-portfolio",
+  "version": "1.0.1",
+  "homepage": "https://Ajaylunia2011.github.io/selfportfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

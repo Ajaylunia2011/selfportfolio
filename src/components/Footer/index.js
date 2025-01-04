@@ -88,13 +88,15 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Sagar Warfade</Logo>
+        <Logo>Ajay Lunia</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
           <NavLink href="#experience">Experience</NavLink>
+          {/* <NavLink href="#thinkbigger">Think Bigger</NavLink> */}
           <NavLink href="#projects">Projects</NavLink>
           <NavLink href="#education">Education</NavLink>
+          
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
@@ -102,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Sagar Warfade. All rights reserved.
+          &copy; 2025 Ajay Lunia. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
