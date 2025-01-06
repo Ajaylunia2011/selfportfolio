@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/selfportfolio/static/css/main.bf538fe7.css",
-    "main.js": "/selfportfolio/static/js/main.fbb8134c.js",
+    "main.js": "/selfportfolio/static/js/main.cf1507f2.js",
     "static/media/NGPUI.png": "/selfportfolio/static/media/NGPUI.0417f375ab2f85afe344.png",
+    "static/media/BCG.png": "/selfportfolio/static/media/BCG.0e1eba4e856ae3f1e926.png",
+    "static/media/Efsfmprohub.png": "/selfportfolio/static/media/Efsfmprohub.33c2865382d6488648b6.png",
+    "static/media/eHealthInsurance.png": "/selfportfolio/static/media/eHealthInsurance.fe3dcf6d41b5cc0aecf5.png",
+    "static/media/Gamdom.png": "/selfportfolio/static/media/Gamdom.b46a536c804052aa64ac.png",
+    "static/media/NetEnt.png": "/selfportfolio/static/media/NetEnt.af92bd127c2a803c1f7a.png",
+    "static/media/sunlife.png": "/selfportfolio/static/media/sunlife.4b230c4d57a55af5caea.png",
+    "static/media/Mightycash.png": "/selfportfolio/static/media/Mightycash.85b742b1593e31a9983f.png",
+    "static/media/Scriptworks.png": "/selfportfolio/static/media/Scriptworks.4af047a06b64f5943328.png",
     "static/media/ajay_profile.jpg": "/selfportfolio/static/media/ajay_profile.6c9e725822d2a0e262cd.jpg",
+    "static/media/DrinksOnTap.png": "/selfportfolio/static/media/DrinksOnTap.73d473a6a5c41061ba18.png",
     "index.html": "/selfportfolio/index.html",
     "main.bf538fe7.css.map": "/selfportfolio/static/css/main.bf538fe7.css.map",
-    "main.fbb8134c.js.map": "/selfportfolio/static/js/main.fbb8134c.js.map"
+    "main.cf1507f2.js.map": "/selfportfolio/static/js/main.cf1507f2.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.fbb8134c.js"
+    "static/js/main.cf1507f2.js"
   ]
 }
