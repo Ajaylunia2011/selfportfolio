@@ -20,7 +20,7 @@ export const Bio = {
   description:
     "Experienced professional with 10+ years in delivering high-quality results. Self-motivated, analytical, and solution-oriented with a positive, client-focused approach. Passionate about learning and committed to achieving excellence through innovative and varied perspectives.",
   resume:
-    "https://drive.google.com/file/d/10InccXdI2KM1ROuzeFfJqcoEzV0wcK-Q/view?usp=drive_link",
+    "https://drive.google.com/file/d/1OIoR94a66rhf2lEfdh_OUhUrMTP2uEAD/view?usp=sharing",
   linkedin: 
     "https://www.linkedin.com/in/ajaylunia/",
   insta: 
