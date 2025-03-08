@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import FacebookIcon from '@mui/icons-material/Facebook';
-import TwitterIcon from '@mui/icons-material/Twitter';
+import XIcon from '@mui/icons-material/X'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constants';
@@ -95,13 +95,18 @@ function Footer() {
           <NavLink href="#experience">Experience</NavLink>
           {/* <NavLink href="#thinkbigger">Think Bigger</NavLink> */}
           <NavLink href="#projects">Projects</NavLink>
+          <NavLink href="#testimonials">Testimonials</NavLink>
           <NavLink href="#education">Education</NavLink>
+          <NavLink href="#thinkbigger">ThinkBigger</NavLink>
+          <NavLink href="#contact">Contact</NavLink>
+          
           
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.twitter} target="display"><XIcon/></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           &copy; 2025 Ajay Lunia. All rights reserved.

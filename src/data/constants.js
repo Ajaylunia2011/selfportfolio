@@ -27,6 +27,8 @@ export const Bio = {
     "https://www.instagram.com/ajay_lunia/",
   facebook:
     "https://facebook.com/ajay.lunia",
+  twitter:
+    "https://x.com/AjayLunia11"
 };
 
 export const skills = [
@@ -500,5 +502,49 @@ export const projects = [
                 github: "",
                 webapp: "",
               },
-  
+
+];
+
+export const dataimages = [
+  { image: 'https://i.imgur.com/3Vjl3Bl.png', name: 'Testimonials 1' },
+  { image: 'https://i.imgur.com/t8R9fzK.png', name: 'Testimonials 2' },
+  { image: 'https://i.imgur.com/PQMqSji.png', name: 'Testimonials 3' },
+  { image: 'https://i.imgur.com/jwSDP4J.png', name: 'Testimonials 4' },
+  { image: 'https://i.imgur.com/3us3JFw.png', name: 'Testimonials 5' },
+  { image: 'https://i.imgur.com/e40okig.png', name: 'Testimonials 6' },
+  { image: 'https://i.imgur.com/RuC0DGt.png', name: 'Testimonials 7' },
+  { image: 'https://i.imgur.com/yrg1fpo.png', name: 'Testimonials 8' },
+  { image: 'https://i.imgur.com/osiGUoP.png', name: 'Testimonials 9' },
+  { image: 'https://i.imgur.com/K1OMJJN.png', name: 'Testimonials 10'},
+  { image: 'https://i.imgur.com/VbW84gg.png', name: 'Testimonials 11'},
+  { image: 'https://i.imgur.com/lx4ofIc.png', name: 'Testimonials 12'},
+  { image: 'https://i.imgur.com/MoYAyoZ.png', name: 'Testimonials 13'},
+  { image: 'https://i.imgur.com/GwYpBWf.png', name: 'Testimonials 14'},
+  { image: 'https://i.imgur.com/i9UaAvW.png', name: 'Testimonials 15'},
+  { image: 'https://i.imgur.com/wLOj6s8.png', name: 'Testimonials 16'},
+  { image: 'https://i.imgur.com/clLJ6Ip.png', name: 'Testimonials 17'},
+  { image: 'https://i.imgur.com/NjJAbox.png', name: 'Testimonials 18'},
+  { image: 'https://i.imgur.com/vajOUxF.png', name: 'Testimonials 19'},
+  { image: 'https://i.imgur.com/JghZuo4.png', name: 'Testimonials 20'},
+  { image: 'https://i.imgur.com/EsGS86S.png', name: 'Testimonials 21'},
+  { image: 'https://i.imgur.com/pOCg2QS.png', name: 'Testimonials 22'},
+  { image: 'https://i.imgur.com/J2JAmP7.png', name: 'Testimonials 23'},
+  { image: 'https://i.imgur.com/xS5HjjV.png', name: 'Testimonials 24'},
+  { image: 'https://i.imgur.com/5TOvKyk.png', name: 'Testimonials 25'},
+
+
+];
+
+
+export const links = [
+  {  url: "https://www.youtube.com/playlist?list=PLsjUcU8CQXGEwS2JuBdjuCMX6s2qERj7r" },
+  {  url: "https://www.scriptworks.io/resources/rest-api-testing/" },
+  {  url: "https://www.nagarro.com/en/blog/localization-strategies-boost-igaming-engagement" }
+];
+
+
+export const thinkBiggerContent = [
+  { text: "Started Software Testing Expert Talks as a knowledge sharing sessions where i connected with Big Heads of Software Testing Virtually across the world.", linkText: "Software Testing Expert Talks (STET)"},
+  { text: "Created 23 Blog post for explaining how we can use lowcode based Automation tool named as Scriptworks.", linkText: "Blog Posts on Rest API Testing" },
+  { text: "Written a blog post on Topic - Localization Strategies:Boosting Engagement in the IGaming Sector and that has been appreciated by Nagarro and surprisingly posted it directly on their own linkedin Channel.", linkText: "Localization Strategies:Boosting Engagement in the IGaming Sector"}
 ];
