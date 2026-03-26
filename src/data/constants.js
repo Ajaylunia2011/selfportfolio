@@ -1,3 +1,4 @@
+import RELAX from "../images/RelaxGaming.png";
 import NGPUI from "../images/NGPUI.png";
 import GAMDOM from "../images/Gamdom.png";
 import EFSFMPRO from "../images/Efsfmprohub.png";
@@ -88,7 +89,13 @@ export const skills = [
         name: "Trello",
         image:
           "https://i.imgur.com/p9ROTY1.png",
-      }
+      },
+
+      // {
+      //   name: "ClickUp",
+      //   image:
+      //   "https://prnt.sc/Op7n0HHMhZ2U",
+      // }
     ],
   },
 
@@ -280,10 +287,31 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 0,
+  {  id: 0,
+    title: "Pharaoh's Last Wish",
+    date: "April 2025 - March 2026",
+    description:
+      "Pharaoh's Last Wish (Relax Gaming): I worked as the QA owner for Pharaoh's Last Wish, where I was responsible for end-to-end testing of the game. My role included performing functional,regression,UI, and feature testing, along with validating slot mechanics such as paylines,symbols, bonus features, and payouts. I ensured accuracy in RTP and overall game logic, identified and tracked defects, and collaborated closely with development,design, and graphics teams to resolve issues efficiently. I also supported release readiness by ensuring the game met quality standards and delivered a seamless player experience.",
+    image:RELAX,
+    //  tags: [
+    //   "HTML",
+    //   "CSS",
+    //   "Javascript",
+    //   "React Js",
+    //   "Docker",
+    //   "Eslint",
+    //   "Material-UI"
+    //  ],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
+
+   {
+
+    id: 1,
     title: "Nagarro Gaming Portal",
-    date: "March 2024 - Present",
+    date: "March 2024 - April 2025",
     description:
       "Nagarro Gaming Portal (NGPUI): Conducted comprehensive end-to-end testing of Nagarro's Game Portfolio across various categories, including Slot Games, Table Games, and Casual Games.",
     image:
@@ -303,7 +331,7 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 2,
     title: "Gamdom Gaming Portal",
     date: "February 2023 - February 2024",
     description:
@@ -325,7 +353,7 @@ export const projects = [
     },
 
     {
-      id: 2,
+      id: 3,
       title: "EFS-FMProHub Application",
       date: "August 2022 - February 2023",
       description:
@@ -348,7 +376,7 @@ export const projects = [
 
 
     {
-      id: 3,
+      id: 4,
       title: "Knowledge Navigator",
       date: "January 2022 - July 2022",
       description:
@@ -372,7 +400,7 @@ export const projects = [
       
 
       {
-        id: 4,
+        id: 5,
         title: "Scriptworks Platform",
         date: "March 2021 - September 2021",
         description:
@@ -394,7 +422,7 @@ export const projects = [
         },
 
         {
-          id: 5,
+          id: 6,
           title: "eHealth MS Census Vue.js Migration",
           date: "March 2019 - May 2020",
           description:
@@ -416,7 +444,7 @@ export const projects = [
           },
 
         {
-          id: 6,
+          id: 7,
           title: "Drinks on Tap (DOT)",
           date: "August 2018- February 2019",
           description:
@@ -438,7 +466,7 @@ export const projects = [
           },
     
         {
-          id: 7,
+          id: 8,
           title: "Mighty Cash Double-Up Game (Helix XT Cabinet)",
           date: "May 2017 - July 2018",
           description:
@@ -460,7 +488,7 @@ export const projects = [
           },
 
           {
-            id: 8,
+            id: 9,
             title: "Conversion of Flash games into Desktop/responsive mobile games",
             date: "October 2015 - May 2017",
             description:
@@ -482,7 +510,7 @@ export const projects = [
             },
     
             {
-              id: 9,
+              id: 10,
               title: "Financial Centre Inventory Management System",
               date: "September 2014 - April 2015",
               description:
